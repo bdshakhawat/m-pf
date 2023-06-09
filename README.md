@@ -127,7 +127,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:Aqurds/microverse-project-module-one.git
+  git clone git@github.com:bdshakhawat/m-pf.git
 ```
 
 ### Install
