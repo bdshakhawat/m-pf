@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="./assets/image/aqurds_icon.jpg" alt="logo" width="140"  height="auto" />
+  <img src="./assets/image/photo.jpeg" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Portfolio Project</b></h3>
@@ -127,7 +127,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:Aqurds/microverse-project-module-one.git
+  git clone git@github.com:bdshakhawat/m-pf.git
 ```
 
 ### Install
@@ -182,9 +182,9 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@Aqurds](https://github.com/Aqurds)
-- Twitter: [@Aqurds](https://twitter.com/Aqurds)
-- LinkedIn: [omaraqurds](https://linkedin.com/in/omaraqurds)
+- GitHub: [@bdshakhawat](https://github.com/bdshakhawat)
+- Twitter: [@bdshakwat](https://twitter.com/bdshakwat)
+- LinkedIn: [shakawat-hossain](https://www.linkedin.com/in/shakawat-hossain)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
