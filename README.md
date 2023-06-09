@@ -182,9 +182,9 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@Aqurds](https://github.com/Aqurds)
-- Twitter: [@Aqurds](https://twitter.com/Aqurds)
-- LinkedIn: [omaraqurds](https://linkedin.com/in/omaraqurds)
+- GitHub: [@bdshakhawat](https://github.com/bdshakhawat)
+- Twitter: [@bdshakwat](https://twitter.com/bdshakwat)
+- LinkedIn: [shakawat-hossain](https://www.linkedin.com/in/shakawat-hossain)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
