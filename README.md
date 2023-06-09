@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="./assets/image/aqurds_icon.jpg" alt="logo" width="140"  height="auto" />
+  <img src="./assets/image/photo.jpeg" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Portfolio Project</b></h3>
